@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raquel-castromonte/](https://www.linkedin.com/in/raquel-castromonte/)
 
+- ⚡ Fun fact about me is that **I enjoy watching e-sports and I like tea**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raquelrcastro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raquelrcastro_" height="30" width="40" /></a>
