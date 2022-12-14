@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **IBM's Data Science course.**
 
-- 💬 Ask me about **data visualization.**
+- 💬 Ask me about **data visualization and ecology.**
 
 - 📫 How to reach me **raquelrcastromonte@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raquel-castromonte/](https://www.linkedin.com/in/raquel-castromonte/)
 
-- ⚡ Fun fact about me is that **I enjoy watching e-sports and I like tea**
+- ⚡ Fun fact about me is that **I enjoy watching e-sports and I like tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
