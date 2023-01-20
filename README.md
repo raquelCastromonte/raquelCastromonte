@@ -2,15 +2,17 @@
 <h3 align="center">A passionate data visualizer from New York!</h3>
 <img align="right" alt="Coding" width ="300" height="300" iframe src = "https://media4.giphy.com/media/xUOxfbAOLZmR356YgM/giphy.gif?cid=ecf05e47hp9k9fcgmstm6ce19zpyo02onrnbc062k9kdowsr&rid=giphy.gif&ct=g" >
 
-- 🔭 I’m currently working on **a data science capstone project.**
+- 🔭 I’m currently working on preparing a research proposal.
 
-- 🌱 I’m currently learning **IBM's Data Science course.**
+- 🌱 I’m currently learning machine learning and fintech.
 
-- 💬 Ask me about **data visualization and ecology.**
+- 💬 Ask me about ecology and data visualization.
 
-- 📫 How to reach me **raquelrcastromonte@gmail.com**
+- 📫 How to reach me raquelrcastromonte@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raquel-castromonte/](https://www.linkedin.com/in/raquel-castromonte/)
+
+- <img src = "https://th.bing.com/th/id/R.67a1900b17b570676a2ee70551b54186?rik=GXPP3%2fTJDU1TSQ&pid=ImgRaw&r=0"> My Tableau account: [here](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
 - ⚡ Fun fact about me is that **I enjoy watching e-sports and I like tea.**
 
