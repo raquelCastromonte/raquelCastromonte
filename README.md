@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data visualizer from New York!</h3>
 <img align="right" alt="Coding" width ="300" height="300" iframe src = "https://media4.giphy.com/media/xUOxfbAOLZmR356YgM/giphy.gif?cid=ecf05e47hp9k9fcgmstm6ce19zpyo02onrnbc062k9kdowsr&rid=giphy.gif&ct=g" >
 
-- 🌱 I’m currently learning machine learning and fintech applications.
+- 🌱 I’m currently learning machine learning and GIS.
 
 - 📫 How to reach me raquelrcastromonte@gmail.com
 
