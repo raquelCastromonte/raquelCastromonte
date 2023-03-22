@@ -8,6 +8,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raquel-castromonte/](https://www.linkedin.com/in/raquel-castromonte/)
 
+- 🌐 Data Portfolio currently (live!) https://raquelcastromonte.github.io/
+
 - <img src = "https://th.bing.com/th/id/R.67a1900b17b570676a2ee70551b54186?rik=GXPP3%2fTJDU1TSQ&pid=ImgRaw&r=0" atl = "tableau" width = "18" height = "18"> My Tableau account: [here](https://public.tableau.com/app/profile/raquel.castromonte5615)
 
 - ⚡ Fun fact about me is that **I enjoy watching e-sports and I like tea.**
